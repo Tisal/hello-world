@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Can Tisal be realy interesting ? Let's see it !
+Can Tisal be really interesting ? Let's see it !
